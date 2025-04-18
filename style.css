@@ -1,0 +1,17 @@
+body {
+    /* Add your styles here */
+    background-color: #da0808; /* Example style */
+    font-family: Arial, sans-serif; /* Example style */
+    display:flex;
+    /* border: 8px solid black;
+    */
+    justify-content:center; 
+}
+
+.box{
+    height:200px;
+    width:200px;
+    background-color:violet;
+    font-size:40pt;
+}
+
